@@ -238,7 +238,7 @@
     <string name="not_logged_in">Вход не выполнен</string>
     <string name="library_not_started">Не начато</string>
     <string name="library_not_rated">Не оценено</string>
-    <string name="invalid_username">Недействительный адрес электронной почты</string>
+    <string name="invalid_username">Введите адрес электронной почты или имя пользователя</string>
     <string name="library_kind_all">Все</string>
     <string name="library_not_synchronized">Не синхронизировано</string>
     <string name="library_edit_status">Состояние библиотеки</string>
@@ -514,4 +514,45 @@
     <string name="prompt_email_or_username">Эл. почта или имя пользователя</string>
     <string name="follow_list_following_title">Подписки</string>
     <string name="follow_list_followers_title">Подписчики</string>
+    <string name="feed_pinned_post">Закреплено</string>
+    <string name="label_write">Написать</string>
+    <string name="label_images">Изображения</string>
+    <string name="title_replies">Ответы</string>
+    <string name="preference_double_back_to_exit">Дважды нажмите «Назад» для выхода</string>
+    <string name="preference_double_back_to_exit_description">Для закрытия приложения необходимо дважды нажать кнопку «Назад».</string>
+    <plurals name="notification_actor_and_others">
+        <item quantity="one">%1$s и ещё %2$d</item>
+        <item quantity="few">%1$s и ещё %2$d</item>
+        <item quantity="many">%1$s и ещё %2$d</item>
+        <item quantity="other">%1$s и ещё %2$d</item>
+    </plurals>
+    <plurals name="group_members_count">
+        <item quantity="one">Участники: %s</item>
+        <item quantity="few">Участники: %s</item>
+        <item quantity="many">Участники: %s</item>
+        <item quantity="other">Участники: %s</item>
+    </plurals>
+    <plurals name="comment_view_all_replies">
+        <item quantity="one">Посмотреть все ответы (%d)</item>
+        <item quantity="few">Посмотреть все ответы (%d)</item>
+        <item quantity="many">Посмотреть все ответы (%d)</item>
+        <item quantity="other">Посмотреть все ответы (%d)</item>
+    </plurals>
+    <string name="action_report">Пожаловаться</string>
+    <string name="report_post_title">Пожаловаться на публикацию</string>
+    <string name="report_comment_title">Пожаловаться на комментарий</string>
+    <string name="report_media_reaction_title">Пожаловаться на реакцию</string>
+    <string name="report_reason">Причина</string>
+    <string name="report_reason_nsfw">Нежелательный контент</string>
+    <string name="report_reason_offensive">Оскорбление</string>
+    <string name="report_reason_spoiler">Спойлер</string>
+    <string name="report_reason_bullying">Травля</string>
+    <string name="report_reason_spam">Спам</string>
+    <string name="report_reason_other">Другое</string>
+    <string name="report_explanation_hint">Пожалуйста, объясните</string>
+    <string name="report_error_explanation_required">Необходимо указать объяснение</string>
+    <string name="report_submit">Отправить</string>
+    <string name="report_success">Жалоба успешно отправлена</string>
+    <string name="report_failure">Не удалось отправить жалобу</string>
+    <string name="report_already_reported">Вы уже пожаловались на это.</string>
 </resources>
